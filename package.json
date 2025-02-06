@@ -1,0 +1,11 @@
+{
+    "type": "module",
+    "name": "create-my-app",
+    "bin": {
+        "create-myapp": "./create.js"
+    },
+    "dependencies": {
+        "degit": "^2.8.0"
+    }
+}
+
