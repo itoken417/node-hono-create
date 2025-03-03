@@ -1,11 +1,11 @@
 {
     "type": "module",
-    "name": "create-my-app",
+    "name": "create-node-app",
     "bin": {
-        "create-myapp": "./create.js"
+        "create-node-app": "./create.js"
     },
     "dependencies": {
-        "degit": "^2.8.0"
+        "degit": "^2.8.4",
+        "dotenv": "^16.4.7"
     }
 }
-
