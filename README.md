@@ -38,7 +38,7 @@ npm link
 - 新しいプロジェクト名を指定してコマンド実行
 
 ```
-create-myapp [new project name]
+create-node-app [new project name]
 ```
 
 - [new project name]のフォルダ内に、テンプレートがとってこられる。
